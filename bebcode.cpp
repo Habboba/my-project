@@ -11,5 +11,6 @@ int main() {
 	if (x < y)
 		swap(x, y);
 	cout << x << " " << y;
+	cout << "Bye\n";
 	return 0;
 }
